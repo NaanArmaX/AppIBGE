@@ -12,7 +12,7 @@ Esse projeto faz parte da atividade avaliativa da disciplina de Desenvolvimento 
 
  | Nome | GitHub | Likedin | E-mail
  | ---- | ------ | ------- | ------
- | Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com
+ | Tainã Dos Santos Silva | [Tainã Dos Santos](https://github.com/NaanArmaX) | [Linkedin](https://www.linkedin.com/in/tainã-dos-santos-silva-7126401b1/) | tainan56.tss@gmail.com
 
 **Tecnologias**
 
